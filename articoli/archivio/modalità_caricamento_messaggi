@@ -1,0 +1,3 @@
+Modalità di Caricamento Messaggi{}FoxWorn3365{}17/04/2022{}
+Finalmente siamo per implementare una nuova funzione per non appesantire troppo il server (e quindi la richiesta
+POST) quando le chat diventano lunghi
