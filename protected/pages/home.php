@@ -1,0 +1,1 @@
+  <h2>Benvenuto su ChatGo!</h2>

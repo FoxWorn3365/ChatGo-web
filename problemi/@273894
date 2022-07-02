@@ -1,0 +1,4 @@
+Caricamento lungo delle Chat{}FoxWorn3365{}12/04/2022{}
+Le chat impiegano veramente tanto tempo a caricare. Per questo a breve verrà introdotta
+una funziona locale per caricare solo gli ultimi messaggi di una chat, in modo da
+ridurre lo stress del server, poichè ogni secondo la chat viene recuperata nuovamente
